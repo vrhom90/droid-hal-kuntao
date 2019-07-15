@@ -5,7 +5,7 @@
 %define vendor lenovo
 
 %define vendor_pretty Lenovo
-%define device_pretty P2a42
+%define device_pretty lenovo p2
 
 %define installable_zip 1
 
